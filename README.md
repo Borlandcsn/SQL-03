@@ -1,7 +1,9 @@
 ЗАДАНИЕ 1
+
 ![01](https://github.com/user-attachments/assets/d2610024-c72d-4c58-abb2-7580045b6c7e)
 
 [Uploading SQLQuery16.sql…]() 
+
  CREATE PROCEDURE vsavin_join_proc
  
  AS CREATE TABLE ##vsavin (
